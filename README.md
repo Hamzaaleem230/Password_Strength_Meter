@@ -59,4 +59,5 @@ This project is open-source and available under the MIT License.
 
  ##  🙌 Connect with Me
  Author: Hamza Syed
+
  Mail: hamzaaleem230@gmail.com
